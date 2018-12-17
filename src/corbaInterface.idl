@@ -1,0 +1,13 @@
+module DCRSApp
+{
+  interface corbaInterface
+  {
+    string addCourse (in string  courseID ,in string semester,in long capacity);
+    string removeCourse (in string  courseID ,in string semester);
+    string listCourseAvailability (in string semester);
+    string enrollCourse(in string studentID,in string courseID,in string semester);
+    string getClassSchedule(in string studentID);
+    string dropCourse(in string studentID,in string courseID);
+    string swapCourse(in string studentID,in string oldcourseID,in string newcourseID);
+    };
+};
