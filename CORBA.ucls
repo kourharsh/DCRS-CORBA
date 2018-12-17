@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="DCRSApp.corbaInterfaceHelper" project="CORBA" 
+    file="/CORBA/src/DCRSApp/corbaInterfaceHelper.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="234" x="105" y="-177"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="Rmiserver.SoenServer" project="CORBA" file="/CORBA/src/Rmiserver/SoenServer.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="495" width="290" x="379" y="-177"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="3" language="java" name="DCRSApp" project="CORBA" file="/CORBA/src/DCRSApp" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="50" width="101" x="709" y="-177"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="4" language="java" name="Rmiclient.AdvisorClient" project="CORBA" 
+    file="/CORBA/src/Rmiclient/AdvisorClient.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="621" width="171" x="882" y="394"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="Rmiserver.CompServer" project="CORBA" file="/CORBA/src/Rmiserver/CompServer.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="531" width="292" x="850" y="-177"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="DCRSApp._corbaInterfaceStub" project="CORBA" 
+    file="/CORBA/src/DCRSApp/_corbaInterfaceStub.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="279" width="218" x="1093" y="394"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="Rmiserver.InseServer" project="CORBA" file="/CORBA/src/Rmiserver/InseServer.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="513" width="285" x="1182" y="-177"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="Rmiserver.CommonServer" project="CORBA" 
+    file="/CORBA/src/Rmiserver/CommonServer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="113" x="1507" y="-177"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="9" language="java" name="Rmiclient" project="CORBA" file="/CORBA/src/Rmiclient" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="50" width="101" x="1660" y="-177"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <component id="10" language="java" name="src" project="CORBA" file="/CORBA/src" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="39" width="114" x="1801" y="-177"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </component>  
+  <interface id="11" language="java" name="DCRSApp.corbaInterface" project="CORBA" 
+    file="/CORBA/src/DCRSApp/corbaInterface.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="63" width="108" x="1351" y="1055"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="12" language="java" name="DCRSApp.corbaInterfaceOperations" project="CORBA" 
+    file="/CORBA/src/DCRSApp/corbaInterfaceOperations.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="218" x="1838" y="394"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="13" language="java" name="DCRSApp.corbaInterfacePOA" project="CORBA" 
+    file="/CORBA/src/DCRSApp/corbaInterfacePOA.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="317" x="2096" y="-177"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="Rmiserver.Functions" project="CORBA" file="/CORBA/src/Rmiserver/Functions.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="531" width="350" x="2096" y="394"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="Rmiclient.TestFile" project="CORBA" file="/CORBA/src/Rmiclient/TestFile.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="200" x="1351" y="394"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="16" language="java" name="Rmiserver" project="CORBA" file="/CORBA/src/Rmiserver" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="50" width="101" x="1955" y="-177"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="17" language="java" name="DCRSApp.corbaInterfaceHolder" project="CORBA" 
+    file="/CORBA/src/DCRSApp/corbaInterfaceHolder.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="207" x="1591" y="394"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="18">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="13"/>  
+  </generalization>  
+  <realization id="19">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="12"/>  
+  </realization>  
+  <association id="20">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="21" name="value"/>      
+      <multiplicity id="22" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="23">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="24" name="objClient"/>      
+      <multiplicity id="25" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="26">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="27" name="objTest"/>      
+      <multiplicity id="28" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="29">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="11"/>  
+  </realization>  
+  <generalization id="30">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="12"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
